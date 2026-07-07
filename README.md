@@ -1,4 +1,4 @@
-# CodeCraftHub ??
+# CodeCraftHub 🚀
 
 CodeCraftHub is a simple, personalized learning platform API where developers can track the courses they want to learn. It is built using Python and the Flask framework.
 
@@ -6,7 +6,7 @@ This project is specifically designed for beginners who are learning how to buil
 
 ---
 
-## ?? Features
+## 🌟 Features
 
 * **Complete REST API:** Includes all basic CRUD (Create, Read, Update, Delete) operations.
 * **Database-Free Storage:** Uses a simple `courses.json` file to store data.
@@ -17,13 +17,13 @@ This project is specifically designed for beginners who are learning how to buil
 
 ---
 
-## ?? Project Structure
+## 📁 Project Structure
 
 Here is how the files in this project are organized:
 
 ```text
 CodeCraftHub/
-+-- app.py             # The main Python file containing the Flask server and API routes
-+-- courses.json       # Your local "database" (auto-generated when you add your first course)
-+-- requirements.txt   # (Optional) Lists the Python packages needed to run the app
-+-- README.md          # This documentation file
+├── app.py             # The main Python file containing the Flask server and API routes
+├── courses.json       # Your local "database" (auto-generated when you add your first course)
+├── requirements.txt   # (Optional) Lists the Python packages needed to run the app
+└── README.md          # This documentation file
